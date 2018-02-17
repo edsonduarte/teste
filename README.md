@@ -1,5 +1,2 @@
-Meu primeiro sistema no GIT
+Meu primeiro sistema no GIT (Alterado e atualizado)
 
-Alteração no README para poder descrever melhor meu sistema
-
-Alteração feita no MASTER
